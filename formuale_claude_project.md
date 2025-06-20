@@ -1,0 +1,1 @@
+I'll create a comprehensive project to search for keyword-related content in your Git-hosted Obsidian vault. This will include both a command-line tool and a web interface for maximum flexibility.Now let me create a web interface version for easier use:
