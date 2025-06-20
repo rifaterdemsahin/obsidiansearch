@@ -1,0 +1,2 @@
+# obsidiansearch
+Search in Obsidian
